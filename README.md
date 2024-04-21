@@ -4,7 +4,8 @@ Add dependency into your project
 
 
 ``
-[dependencies] sorting_algos = { git = "https://github.com/ErsinGabbas/Blockchain_Assignment1" }
+[dependencies] 
+sorting_algos = { git = "https://github.com/ErsinGabbas/Blockchain_Assignment1" }
 ``
 
 open any Rust file and type
