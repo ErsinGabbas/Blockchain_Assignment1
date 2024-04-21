@@ -6,3 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+sorting_algos = { git = "https://github.com/ErsinGabbas/Blockchain_Assignment1" }
